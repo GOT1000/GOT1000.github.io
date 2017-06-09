@@ -12,11 +12,11 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: http://got1000.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,7 +34,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/profile.php?id=100003336212441
+facebook: https://www.facebook.com/jinhyg2103
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -54,7 +54,7 @@ authors:
         name: Jin Hyuk Kim
         bio: My Profile Page
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/myprofile.jpg
     
 
 # do you want a larger site? change the option below
